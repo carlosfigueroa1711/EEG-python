@@ -1,0 +1,32 @@
+LABCENTER PROTEUS TOOL INFORMATION FILE
+=======================================
+
+In case of difficulty, please e-mail support@labcenter.co.uk
+
+Tool set up for Proteus layout 'carlos.pdsprj'.
+CADCAM generated at 09:45:39 a.m. on viernes, 24 de marzo de 2017.
+
+File List
+---------
+Bottom Copper           : carlos - CADCAM Bottom Copper.GBR
+Top Silk Screen         : carlos - CADCAM Top Silk Screen.GBR
+Mechanical 1            : carlos - CADCAM Mechanical 1.GBR
+Drill, Plated, 1-16     : carlos - CADCAM Drill L1 L16 Plated.GBR
+Netlist                 : carlos - CADCAM Netlist.IPC
+
+Photoplotter Setup
+------------------
+Format: X2, ASCII, 4.3, metric, absolute, eob=*, LZO
+Notes:  D=Diameter, S=Side, W=Width, H=Height, C=Chamfer, I=Index
+
+D10	CIRCLE  D=0.762mm                                                         DRAW  Conductor
+D11	SQUARE  S=2.032mm                                                         FLASH ComponentPad
+D12	CIRCLE  D=1.778mm                                                         FLASH ComponentPad
+D13	CIRCLE  D=0.2032mm                                                        DRAW  Profile
+D14	CIRCLE  D=0.0635mm                                                        DRAW  NonConductor
+D15	CIRCLE  D=0.2032mm                                                        DRAW  Material
+D16	CIRCLE  D=1.016mm                                                         FLASH ComponentDrill
+D17	CIRCLE  D=0.762mm                                                         FLASH ComponentDrill
+
+
+[END OF FILE]

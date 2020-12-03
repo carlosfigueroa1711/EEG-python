@@ -1,0 +1,1 @@
+Para ver el diseño de la placa del LED para la Raspberry Pi se debe utilizar el programa Proteus 8.3 o posterior.
